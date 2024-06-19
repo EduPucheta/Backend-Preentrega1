@@ -1,0 +1,48 @@
+[
+    {
+        "id": "f01191ad-b256-4a27-bb7b-ee01167ffd06",
+        "title": "Producto 7",
+        "description": "Este es otro producto mas",
+        "price": 570,
+        "thumbnail": "test.html",
+        "code": "ASDF1245",
+        "stock": 42,
+        "category": "Electrónica",
+        "status": true
+    },
+    {
+        "id": "fc89e61b-62ad-4345-94ce-9ba50f94cc5f",
+        "title": "Producto 8",
+        "description": "Este es otro producto mas",
+        "price": 580,
+        "thumbnail": "test.html",
+        "code": "ASDF1245",
+        "stock": 42,
+        "category": "Electrónica",
+        "status": true
+    },
+    {
+        "id": "abd4b6c9-4c46-404b-995c-6d328788f025",
+        "title": "Producto 9",
+        "description": "Este es el producto 9",
+        "price": 580,
+        "thumbnail": [
+            "test.html",
+            "test2.html"
+        ],
+        "code": "ASDF12454",
+        "stock": 13,
+        "category": "Electrónica",
+        "status": true
+    },
+    {
+        "id": "a334c548-3c58-4897-a9d0-76d6f791d4c0",
+        "title": "Producto 10",
+        "description": "Este es un un producto sin thumbnails",
+        "price": 590,
+        "code": "ASDF12475",
+        "stock": 18,
+        "category": "Decoración",
+        "status": true
+    }
+]
