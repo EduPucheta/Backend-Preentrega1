@@ -9,7 +9,7 @@ app.use(express.json()); // Este middleware nos permite obtener archivos json
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-app.use("/api", productRouter);
+app.use("/api", productRouter); 
 app.use("/api", cartRouter);
  
 app.listen(PORT, () => {
